@@ -1,0 +1,18 @@
+{
+	"model": [
+		{
+		  "model_name" : "mo-ovary-23-01-sk132",
+			"model_path" : "mo-ovary-23-01-sk132-vot.jb",
+			"scaler_path" : "mo-ovary-23-01-sk132-scaler.jb",
+			"shap_path" : "mo-ovary-23-01-sk132-shap.jb",
+			"mean_path" : "mo-ovary-23-01-sk132-mean.jb",
+			"features" : 0
+		}
+	],
+
+	"ui": [
+		{
+		  "python_path": "C:/WinPy/scripts/python.bat"
+		}
+	  ]
+}
