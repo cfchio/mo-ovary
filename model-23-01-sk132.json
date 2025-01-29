@@ -8,11 +8,5 @@
 			"mean_path" : "mo-ovary-23-01-sk132-mean.jb",
 			"features" : 0
 		}
-	],
-
-	"ui": [
-		{
-		  "python_path": "C:/WinPy/scripts/python.bat"
-		}
-	  ]
+	]
 }
