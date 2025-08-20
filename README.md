@@ -1,4 +1,4 @@
-# A Population-specific Ensemble Machine Learning Model for the Prediction of Ovarian Tumor Diagnosis in Macao: A Multicenter Retrospective Study
+# A Population-specific Ensemble Machine Learning Model for Predicting Borderline or Malignancy Risk of Ovarian Masses in Macao: A Multicenter Retrospective Study
 
 Chan-Fong CHIO, et al.
 
