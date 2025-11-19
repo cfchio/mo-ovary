@@ -13,6 +13,7 @@ pandas==2.2.2
 numpy==1.26.4
 shap==0.46.0
 joblib==1.4.2
+matplotlib==3.7.3
 ```
 
 ## 2. Environment
